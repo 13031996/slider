@@ -1,0 +1,15 @@
+.main_container {
+  justify-content: center;
+  background: white;
+  width: 70%;
+  padding: 2.4rem 5rem;
+  border-radius: 0.5rem;
+  border: 1px solid transparent;
+  margin: 4rem auto;
+}
+
+.text {
+  font-size: 24px;
+  font-weight: bolder;
+  text-transform: uppercase;
+}

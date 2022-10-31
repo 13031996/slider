@@ -1,0 +1,45 @@
+.bg-yellow-300 {
+  background-color: yellow;
+}
+.bg-red-300 {
+  background-color: yellow;
+}
+.bg-green-300 {
+  background-color: yellow;
+}
+.bg-gray-300 {
+  background-color: gray;
+}
+.flex {
+  display: flex;
+}
+.small-height {
+  height: 3px;
+}
+.small-width {
+  width: 20rem;
+}
+.bg-gray-300 {
+  background: gray;
+}
+.rounded-sm {
+  border-radius: 2px;
+}
+.rounded-full {
+  border-radius: 50%;
+}
+.absolute {
+  position: absolute;
+}
+.relative {
+  position: relative;
+}
+.top {
+  top: 50%;
+}
+.-translate-y {
+  transform: tanslateY(-50%);
+}
+.medium-width {
+  width: 33.3%;
+}
