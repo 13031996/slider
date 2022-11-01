@@ -10,6 +10,62 @@
 
 .text {
   font-size: 24px;
+  text-align: justify;
+  margin-left: 6rem;
   font-weight: bolder;
   text-transform: uppercase;
+}
+
+.indicator {
+  color: #e74b16;
+  font-size: 24px;
+  font-weight: 400;
+  margin: 70px auto 50px;
+  text-align: center;
+  width: 100%;
+}
+
+.question {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 400px;
+}
+
+.bottom {
+  margin-top: 3rem;
+  height: 130px;
+}
+
+.steps {
+  display: flex;
+
+  flex-direction: row;
+  gap: 10rem;
+  font-weight: bolder;
+}
+
+.progress {
+  display: flex;
+}
+.rounded-full {
+  border-radius: 50%;
+}
+
+.relative {
+  position: relative;
+}
+.top {
+  top: 50%;
+}
+.-translate-y {
+  transform: tanslateY(-50%);
+}
+.medium-width {
+  width: 33.3%;
+}
+
+#myProgressBar {
+  width: 60vw;
+  cursor: pointer;
+  margin-right: 5rem;
 }
